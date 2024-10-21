@@ -39,7 +39,8 @@ Bu bölümde kuantum bilgisayarlar ve yapay zeka gibi güncel teknoloji konular�
 
 ## Katkıda Bulunanlar
 
-- [Adınız](https://github.com/kullaniciadiniz)
+- [Kodluyoruz](https://github.com/kodluyoruz)
+- [Bilge Balga](https://github.com/BilgeBalga)
 
 ## Lisans
 
